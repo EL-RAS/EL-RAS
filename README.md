@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EL-Ras/EL-Ras/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EL-Ras/EL-Ras/output/snake.svg](https://github.com/EL-RAS/EL-RAS/blob/main/snake.yml" alt="Snake animation" />
 
 ###

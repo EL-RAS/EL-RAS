@@ -76,4 +76,10 @@
   </a>
 </div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/EL-Ras/EL-Ras/output/snake.svg" alt="Snake animation" />
+
+###
